@@ -1,2 +1,2 @@
 # tinyone_project
-Great repository name
+https://sksowrab.github.io/tinyone_project/
